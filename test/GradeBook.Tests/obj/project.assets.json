@@ -6529,21 +6529,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hamwa\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\hamwa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hamwa\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\hamwa\\gradebook\\csharpefundamentals\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
       "projectName": "GradeBook.Tests",
-      "projectPath": "C:\\Users\\hamwa\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+      "projectPath": "C:\\Users\\hamwa\\gradebook\\csharpefundamentals\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
       "packagesPath": "C:\\Users\\hamwa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hamwa\\gradebook\\test\\GradeBook.Tests\\obj\\",
+      "outputPath": "C:\\Users\\hamwa\\gradebook\\csharpefundamentals\\test\\GradeBook.Tests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\hamwa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -6558,8 +6554,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\hamwa\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
-              "projectPath": "C:\\Users\\hamwa\\gradebook\\src\\GradeBook\\GradeBook.csproj"
+            "C:\\Users\\hamwa\\gradebook\\csharpefundamentals\\src\\Gradebook\\GradeBook.csproj": {
+              "projectPath": "C:\\Users\\hamwa\\gradebook\\csharpefundamentals\\src\\Gradebook\\GradeBook.csproj"
             }
           }
         }
@@ -6605,7 +6601,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
